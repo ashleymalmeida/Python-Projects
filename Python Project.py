@@ -15,3 +15,16 @@ print(fries)
 
 
 
+animals = ["lion", "elephant", "giraffe" , "cheetah"] 
+
+for x in animals:
+ print(x)
+
+
+
+var1 = int(input("Insert a number"))
+var2 = int(input("Insert a number"))
+
+for x in range(var1 + var2 ):
+    print(x)
+    
