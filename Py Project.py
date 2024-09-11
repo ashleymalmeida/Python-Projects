@@ -1,3 +1,6 @@
+#MAD LIBS PROJECT!
+
+
 #string1 = input("Choose a noun :")
 #string2 = input("Choose a plural noun :")
 #string3 = input("Choose a noun :")
@@ -17,19 +20,19 @@
 
 
 
+# Reading Competition Project!
 
 
+#student = 100
+#classroom = 30*student
+#print(classroom)
 
-student = 100
-classroom = 30*student
-print(classroom)
+#school = classroom * 12 
 
-school = classroom * 12 
+#print(school)
 
-print(school)
+#goal = 10000  
+#print(goal)
 
-goal = 10000  
-print(goal)
-
-pages_per_student = goal / 360
-print(pages_per_student)
+#pages_per_student = goal / 360
+#print(pages_per_student)
